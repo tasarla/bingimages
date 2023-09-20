@@ -1,2 +1,2 @@
 # bingimages
-Bing image search and save
+With this code, you can search and save images on Bing.
